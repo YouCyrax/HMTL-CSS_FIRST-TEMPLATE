@@ -1,2 +1,2 @@
-# HMTL-CSS_FIRST-TEMPLATE
-First-Template using HTML and CSS
+# HTML-CSS-First-Template
+HTML and CSS Template One 
